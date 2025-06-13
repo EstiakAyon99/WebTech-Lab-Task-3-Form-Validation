@@ -44,7 +44,5 @@ function vadidate() {
     errorElement.innerHTML = "Form submitted successfully!!";
     errorElement.classList.add("box");    
 
-    // alert("Form submitted sucessfully!!");
-
     return true;
 }

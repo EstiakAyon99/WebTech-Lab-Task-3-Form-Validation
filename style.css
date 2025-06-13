@@ -14,19 +14,19 @@
 
     .box1 {
       border: 1px solid black;
-      height: 80vmin;
+      height: 100vmin;
       width: 60vmin;
     }
 
     .box2 {
       border: 1px solid black;
-      height: 80vmin;
+      height: 100vmin;
       width: 60vmin;
     }
 
     .box3 {
       border: 1px solid black;
-      height: 100vmin;
+      height: 120vmin;
       width: 60vmin;
       margin: 0px;
       padding: 0px;
@@ -34,7 +34,7 @@
 
     .box4 {
       border: 1px solid black;
-      height: 60vmin;
+      height: 80vmin;
       width: 60vmin;
     }
 
@@ -98,4 +98,9 @@
    }
    .box{
     color: green;
+   }
+   .color{
+    width: 100%;
+    height: 40px;
+    margin: 5px 0;
    }

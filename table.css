@@ -1,0 +1,74 @@
+td{
+    border: 1px solid black;
+    height: 40px;
+    width: 170px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#caption{
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+    padding-top: 10px;
+}
+
+.BtnContainer{
+    display: flex;
+}
+
+.cancle, .submit{
+    height: 35px;
+    width: 80px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.cancle:hover{
+    background-color: rgb(146, 2, 2);
+    color: white;
+}
+.submit:hover{
+    background-color: rgb(1, 90, 1);
+    color: white;
+}
+
+.cancle{
+    background-color: rgb(225, 2, 2);
+    color: white;
+}
+
+.submit{
+    background-color: green;
+    color: white;
+}
+.a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.login{
+    width: 100%;
+    padding: 7px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+.loginBox{
+    padding-left: 17%;
+}
+.loginnForm{
+    margin: 5px 0px 5px 0px;
+}
+.msg{
+    color: red;
+}
